@@ -7,5 +7,5 @@ _*/
 
 # NWScript
 /source/*.bat
-/source/*.nwnnsscomp.exe
 /source/*.ncs
+/source/nwnnsscomp.exe
