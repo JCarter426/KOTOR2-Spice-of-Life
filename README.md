@@ -74,6 +74,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 # Donations
 
-If you enjoy my mods and would like to show your support in a monetary manner, you may do so via PayPal at http://www.paypal.me/carterunited or using the button below.
+If you enjoy my mods and would like to show your support in a monetary manner, you may do so via PayPal at https://www.paypal.me/carterunited or using the button below.
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/ncp/payment/HCYNEA8JVJD2Y)
