@@ -3,7 +3,7 @@
 |||
 | -------- | ----------------------------------------------------------|
 | Title:   | JC's Spice of Life for K2                                 |
-| Version: | 1.0                                                       |
+| Version: | 1.0.1                                                     |
 | Game:    | Star Wars Knights of the Old Republic II - The Sith Lords |
 | Author:  | JCarter426                                                |
 
@@ -19,7 +19,7 @@ You must start a new game to experience the full effects of this mod.
 
 1. Extract files from the downloaded archive.
 2. Run Install.exe.
-3. Click "Install Mod" and select your game directory (default name SWKOTOR2).
+3. Click "Install Mod" and select your game directory (default name SWKotOR2).
 
 TSLPatcher may warn that .mod files already existed and were skipped during installation. This is normal and means that this mod's installer patched the files you already had from another mod rather than installing a new one.
 
@@ -31,8 +31,8 @@ This mod only supports the English language version of the game at this time.
 During installation, TSLPatcher generates a backup folder and a log recording which files were affected.
 
 1. Restore dialog.tlk by copying the file from the backup folder to your game directory, replacing the existing one.
-2. Restore or delete all all module files affected by this mod. For each module, copy the corresponding .mod file from the backup folder to your game's Modules folder if it was created, otherwise delete the .mod file from your game's Modules folder.
-3. Delete all installed by this mod from your game's Override folder.
+2. Restore or delete all all module files affected by this mod. For each module, copy the corresponding .mod file from the backup folder to replace the one in your game's Modules folder if a backup was created, otherwise delete the .mod file from your game's Modules folder.
+3. Delete all other files installed by this mod from your game's Override folder.
 
 
 # Compatibility
