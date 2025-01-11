@@ -3,7 +3,7 @@
 |||
 | -------- | ----------------------------------------------------------|
 | Title:   | JC's Spice of Life for K2                                 |
-| Version: | 1.0.1                                                     |
+| Version: | 1.0.2                                                     |
 | Game:    | Star Wars Knights of the Old Republic II - The Sith Lords |
 | Author:  | JCarter426                                                |
 
@@ -56,6 +56,7 @@ While testing, I had an occasional issue with hallucinations being visible after
 | ERFEdit      | stoffe & Fair Strides           |
 | K-GFF        | tk102                           |
 | NWNSSCOMP    | Torlack, stoffe, & tk102        |
+| tga2tpc      | ndix UR                         |
 | xoreos tools | xoreos team https://xoreos.org/ |
 
 
